@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.ayotomisin.clean_messy_predictor"
+        applicationId "com.ayotomisin.notekeeper"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
